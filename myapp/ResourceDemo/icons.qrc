@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>icons/windows_xp.ico</file>
+     <file>icons/debian.ico</file>
+     <file>icons/ubuntu.ico</file>
+     <file>icons/osx.ico</file>
+ </qresource>
+ </RCC>
